@@ -1,0 +1,104 @@
+button {
+
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: black;
+    color: white;
+}
+
+#projects {
+    width: 110%;
+    height: 50px;
+    position: fixed;
+    background-color: #C23D60;
+    color: white;
+    top: 0;
+    right: 0;
+    left: 0;
+    bottom: 0;
+}
+
+.welcome-section {
+    background-image: linear-gradient( to bottom right ,purple, blue ) ;
+    height: 1800px;
+    width: 100%;
+    position: absolute;
+    top: 50px;
+    right: 0;
+    left: 0;
+}
+
+#my {
+    margin-top: 250px;
+    color: white;
+    font-size: 85px;
+
+}
+
+#my1 {
+    margin-top: 10px;
+    color: #C23D60;
+    font-size: 55px;
+    font-weight: lighter;
+
+}
+
+#my2 {
+    margin-top: 10px;
+    color: white;
+    font-size: 55px;
+    font-weight: lighter;
+    text-decoration: underline 3px;
+
+}
+
+
+
+#proj {
+
+    margin-top: 400px;
+    width: 100%;
+    height: 900px;
+
+}
+
+
+#fas {
+
+    width: 80%;
+    height: 80%;
+    margin: auto;
+    position: relative;
+}	
+
+
+#im1 {
+    width: 300px;
+    height: 210px;
+    background-color: gray;
+    position: absolute;
+    right:  0;
+    margin-top: 100px;
+    color: white;
+    font-family: monospace;
+}
+#im2 {
+    width: 300px;
+    height: 210px;
+    background-color: gray;
+    position: absolute;
+    right: 38%;
+    margin-top: 100px;
+    color: white;
+    font-family: monospace;
+}
+#im3 {
+    width: 300px;
+    height: 210px;
+    background-color: gray;
+    position: absolute;
+    margin-top: 100px;	
+    color: white;
+    font-family: monospace;
+}
