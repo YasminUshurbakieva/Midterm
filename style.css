@@ -1,0 +1,75 @@
+#welcome-section{
+    background-image: linear-gradient(to bottom right,purple,blue);
+    position: absolute;
+    height: 2500px;
+    width: 2025px;
+    top: 60px;
+    right: 0px;
+}
+h1{
+    position: fixed;
+    top: 250px;
+    left: 550px;
+    text-align:center;
+    color: bisque;
+}
+p{
+    position:absolute;
+    top: 295px;
+    left: 550px;
+    text-align:center;
+    color: bisque;
+    font-size: medium;
+}
+#fixed{
+    position:fixed;
+    width: 1650px;
+    height: 60px;
+    top: 1px;
+    right:0;
+    background-color: rgb(170, 88, 58);
+    text-align: right;
+}
+a{
+    text-align: right;
+    color: cornsilk;
+    font-size:large;
+    text-decoration: none;
+}
+.J{
+    position: fixed;
+    top: 400px;
+    right: 450px;
+    text-align:center;
+    text-decoration-line:underline;
+    font-weight:normal;
+    color:bisque;
+}
+#project{
+    position:absolute;
+    width: 1500px;
+    height: 1500px;
+    top: 100px;
+    background-image: linear-gradient(blue);
+}
+#projects{
+position: fixed;
+right: 10px;
+top:550px;
+background-attachment: fixed; 
+background-repeat: no-repeat;
+}
+#pr{
+ position: fixed;
+left: 10px;
+top:550px;
+background-attachment: fixed; 
+background-repeat: no-repeat;
+}
+#pre{
+    position: fixed;
+left: 550px;
+    top:550px;
+    background-attachment: fixed; 
+    background-repeat: no-repeat;
+}
